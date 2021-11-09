@@ -1,2 +1,9 @@
 # Spark_Python_BigData
-Different Assignments
+
+These are different assignments and labs covering
+
+* RDD Operations
+* DataFrame Operations
+* Machine Learning pipelines
+* Streaming
+* GraphFrames
